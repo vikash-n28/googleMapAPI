@@ -1,0 +1,19 @@
+  html,
+  body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+  }
+
+  #map {
+      height: 90%;
+      background-color: grey;
+  }
+
+  .map-icon-label .map-icon {
+      font-size: 24px;
+      color: #FFFFFF;
+      line-height: 48px;
+      text-align: center;
+      white-space: nowrap;
+  }
